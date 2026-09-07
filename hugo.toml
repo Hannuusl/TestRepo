@@ -2,3 +2,7 @@ theme = 'PaperMod'
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
+
+# 允许在 Markdown 中渲染原始 HTML：时间线 <div> 布局、带 target="_blank" 的来源链接均依赖此项
+[markup.goldmark.renderer]
+unsafe = true
