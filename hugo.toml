@@ -1,4 +1,4 @@
 theme = 'PaperMod'
-baseURL = 'https://example.org/'
+baseURL = 'https://test4project.netlify.app/'
 locale = 'en-us'
 title = 'My New Hugo Project'
