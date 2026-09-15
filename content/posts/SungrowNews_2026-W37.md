@@ -1,131 +1,141 @@
 +++
-date = '2026-09-08T17:37:53+08:00'
+date = '2026-09-14T17:59:56+08:00'
 draft = false
-title = '阳光电源2026年W36周新闻汇总（8月31日-9月6日）'
+title = '阳光电源2026年W37周新闻汇总（9月7日-9月13日）'
 +++
 
-**简介**
+ **简介**
 
-本篇文章汇总阳光电源（300274.SZ）2026年8月31日至9月6日（第W36周）期间的主要新闻动态，涵盖股价市值、股份回购、海外产能（波兰/泰国/埃及/美国）、新产品（MGTL Series、PowerTitan、SST/AIDC 电源）、行业活动与公司治理等方面。本周主线是：半年报"营收净利双降"叠加美国第14420号行政令与FCC逆变器禁令扰动，市值跌破2000亿元；公司同期披露3.25亿元回购进展、回应美国政策、亮相太原能源低碳发展论坛，并预告新一代MGTL系列三相混合逆变器。每条结论均附来源链接（点击可在新标签页打开），文末「索引」按引用顺序排列。
+本篇文章汇总阳光电源（300274.SZ）2026年9月7日至9月13日（第W37周）期间的主要新闻动态，涵盖股价市值、股份回购、海外产能、新产品与算力供电、行业活动与公司治理等方面。每条结论均附来源链接（点击可在新标签页打开），文末「索引」按引用顺序排列。
 
 ## 时间线
 
 <div style="border-left:3px solid #4a90d9; margin:12px 0 12px 8px; padding-left:18px;">
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>8月31日</strong>　股价低开低走，盘中跌超8%触及89.5元/股的年内低点，收盘报91.5元、跌6.34%，总市值约1897亿元，跌破2000亿元关口；最近三个交易日累计跌幅接近20%（<a href='https://finance.eastmoney.com/a/202608313860166430.html' target='_blank' rel='noopener'>来源：中国经营报</a> [1]）
+    <strong>9月7日</strong>　在越南岘港发布下一代三相混合逆变器 MGTL Series，功率覆盖 10–25kW，面向东南亚、非洲、拉美等市场（<a href="https://official-overseas-aks-na.sungrowpower.com/en/meet-new-mgtl-series-sungrow-latest-innovation-for-homes-and-businesses" target="_blank" rel="noopener">来源：Sungrow 官网新闻</a> [1]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月1日</strong>　半年报后业绩"换挡"受关注：上半年营收309.12亿元（同比-28.99%）、归母净利52.59亿元（同比-32.01%），储能收入首超逆变器占半壁江山，港股IPO处于关键窗口期（<a href='https://www.toutiao.com/article/7680235363264676387/' target='_blank' rel='noopener'>来源：北京日报</a> [2]）
+    <strong>9月7日</strong>　股价收 88.75 元，涨 0.36%，成交 35.48 亿元；融资余额 82.84 亿元，占流通市值 4.50%，处于近一年低位（<a href="https://finance.sina.com.cn/stock/aiassist/lr/2026-09-08/doc-inirapyy9212343.shtml" target="_blank" rel="noopener">来源：新浪财经</a> [2]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月1日</strong>　官网预告新一代三相混合逆变器 MGTL Series，面向东南亚、非洲、拉美等市场，主打0ms并离网切换与全场景备电，定于9月7日在越南岘港发布（<a href='https://official-overseas-aks-na.sungrowpower.com/en/whats-next-unveiling-sungrows-next-gen-mgtl-series' target='_blank' rel='noopener'>来源：阳光电源官网</a> [3]）
+    <strong>9月8日</strong>　股价收 87.85 元，跌 1.01%；深交所披露总市值 1,821.32 亿元，流通市值 1,394.64 亿元（<a href="https://www.szse.cn/certificate/individual/index.html?code=300274" target="_blank" rel="noopener">来源：深圳证券交易所</a> [3]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月2日</strong>　披露回购进展公告：截至8月31日以集中竞价方式累计回购304.76万股，占总股本0.1470%，成交价区间97.81—114.99元/股，支付资金3.25亿元（<a href='https://data.eastmoney.com/notices/detail/300274/AN202609021828929392.html' target='_blank' rel='noopener'>来源：东方财富·公司公告</a> [4]）
+    <strong>9月9日</strong>　互动平台回应：AIDC 业务已正式推出 EnerNeo 系列固态变压器（SST）并面向市场供货，已向客户交付几台，预计四季度投运（<a href="https://www.cnstock.com/commonDetail/787746?commTag=true" target="_blank" rel="noopener">来源：上海证券报·中国证券网</a> [4]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月3日</strong>　披露《关于中证中小投资者服务中心公开征集表决权的公告》，投服中心就提名独立董事候选人的议案向全体股东征集表决权（<a href='https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF' target='_blank' rel='noopener'>来源：巨潮资讯网·公司公告</a> [5]）
+    <strong>9月10日</strong>　公告中标中国能源建设集团湖南火电建设有限公司采购项目（南非 Sishen 72.5MW 光伏项目逆变器采购），中标金额 764.22 万元（<a href="https://guba.eastmoney.com/news,300274,1771557875.html" target="_blank" rel="noopener">来源：东方财富·同壁财经</a> [5]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月3日</strong>　"阳光电源分布式光储创享会·杭州站"在杭州举办，与鼎久新能源集团联合主办，聚焦浙江112号文落地后的工商业分布式光储机遇（<a href='https://www.huodongxing.com/event/1875750301300' target='_blank' rel='noopener'>来源：活动行·会议页</a> [6]）
+    <strong>9月10日</strong>　2026 Inclusion·外滩大会 AI 拓境论坛在上海举办，AIDC 电源事业部总裁张迪发表主旨报告，阐述 800V 直流供电方案与 EnerNeo SST（3MW、效率 98.5%）（<a href="https://www.toutiao.com/article/7684129228220154404/" target="_blank" rel="noopener">来源：中国能源报</a> [6]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月3日</strong>　pv magazine 报道中国逆变器与BESS企业应对美国限制，指出阳光电源给出了最详细的回应：承认长期看美国业务量会逐步萎缩，将向其他区域市场倾斜、发力渠道业务，且暂不考虑赴美本地化建厂（<a href='https://www.pv-magazine.com/2026/09/03/chinese-inverter-and-bess-makers-stress-compliance-as-us-restrictions-widen/' target='_blank' rel='noopener'>来源：pv magazine</a> [7]）
+    <strong>9月10日—12日</strong>　2026（第二十八届）中国国际矿业大会在天津梅江会展中心举行，阳光电源在新能源展区展示面向矿区的微电网解决方案（<a href="https://www.sohu.com/a/1074099253_122014422" target="_blank" rel="noopener">来源：搜狐·矿业大会现场报道</a> [7]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月4日</strong>　2026年太原能源低碳发展论坛期间，阳光电源与通威集团联合主办"新能源全场景应用与金属赋能探讨活动"；公司首席专家潘年安分享光储系统架构与构网技术创新，场外展示465kW组串式逆变器与PowerTitan 3.0储能系统（<a href='https://www.toutiao.com/article/7682719951458664979/' target='_blank' rel='noopener'>来源：山西经济日报</a> [8]）
+    <strong>9月11日</strong>　向客户下发产品调价告知函，自 9 月 20 日起对光伏逆变器、储能变流器及储能系统提价 5%–15%，公司确认属实并称"想引导行业健康发展，不想低价内卷"（<a href="https://www.cnstock.com/commonDetail/789170" target="_blank" rel="noopener">来源：上海证券报·中国证券网</a> [8]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月4日</strong>　深交所互动易集中回应美国政策：第14420号行政令字面覆盖69kV及以上输电系统设备，本地配电不在范围内；美国分布式光储项目13.8kV接入、大型项目34.5kV接入再升压，从哪个节点开始约束尚不明确，实施细则未发布（<a href='https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-09-04/doc-iniqsenq4152080.shtml' target='_blank' rel='noopener'>来源：新浪财经·互动易</a> [9]）
+    <strong>9月11日</strong>　股价收 84.40 元，跌 1.78%，盘中最低 83.12 元创 52 周新低，总市值 1,749.79 亿元，成交额 39.84 亿元（<a href="https://finance.sina.com.cn/realstock/company/sz300274/kline.shtml?daily" target="_blank" rel="noopener">来源：新浪财经</a> [9]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月4日</strong>　股价企稳反弹，收盘88.43元、涨1.55%，成交47.55亿元、换手率3.38%，总市值1833.34亿元；当日主力资金净流入2.36亿元（<a href='https://www.toutiao.com/article/7681686938604028466/' target='_blank' rel='noopener'>来源：金融界</a> [10]）
+    <strong>9月12日</strong>　市场复盘：调价公告当日主力资金净流出约 4.57 亿元，占成交额 11.48%；近六个月 16 位分析师 12 个月平均目标价 146.50 元，区间 77–230.72 元（<a href="https://xueqiu.com/4596573900/409056614" target="_blank" rel="noopener">来源：雪球·新质微观</a> [10]）
   </div>
   <div style="position:relative; margin-bottom:14px;">
     <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月5日</strong>　半年报数据被进一步拆解：上半年毛利率35.92%（同比+1.56个百分点），财务费用3.68亿元（同比+239.94%，主因欧元及美元贬值带来汇兑损失），经营现金流净额37.35亿元（同比+8.75%），拟每10股派现6.4元合计13.17亿元（<a href='https://www.163.com/dy/article/L62DAV6S0511A0EF.html' target='_blank' rel='noopener'>来源：雷递网</a> [11]）
-  </div>
-  <div style="position:relative; margin-bottom:14px;">
-    <span style="position:absolute; left:-26px; top:3px; width:12px; height:12px; background:#4a90d9; border:2px solid #fff; border-radius:50%; box-shadow:0 0 0 2px #4a90d9;"></span>
-    <strong>9月6日</strong>　媒体跟进投服中心提名：独董候选人张冬花（安徽新中天会计师事务所副所长）由中证投服中心与易方达基金联合提名，征集时间为9月4日至9月12日17:00，临时股东会定于9月15日14:00召开（<a href='https://m.10jqka.com.cn/20260906/c679630579.shtml' target='_blank' rel='noopener'>来源：同花顺财经</a> [12]）
+    <strong>9月13日</strong>　中信建投发布中报点评：26Q2 综合毛利率 38.6%，同比/环比提升 4.9/5.4pct，扣非归母净利润环比增长 10.4%，主业利润率进入修复阶段（<a href="https://stock.hexun.com/2026-09-13/224997105.html" target="_blank" rel="noopener">来源：和讯·中信建投研报</a> [11]）
   </div>
 </div>
 
 # 一、股价与市值
 
-- **8月31日**：受半年报"营收净利双降"及美国电力设备行政令消息扰动，股价盘中跌超8%触及89.5元/股年内低点，收盘91.5元、跌6.34%，总市值约1897亿元，跌破2000亿元；三个交易日累计跌幅接近20%（<a href='https://finance.eastmoney.com/a/202608313860166430.html' target='_blank' rel='noopener'>来源：中国经营报</a> [1]）。
-- **9月2日**：市值继续探至1800亿元附近；公司收入约90%来自光伏逆变器等电力电子转换设备与储能系统，上半年海外营收226.90亿元、占总营收比重升至73.40%（<a href='https://new.qq.com/rain/a/20260902A048AU00' target='_blank' rel='noopener'>来源：每日经济新闻</a> [13]）。
-- **9月3日**：伯恩斯坦研究团队维持"跑赢大盘"评级、目标价151元，认为股价跌至98元左右、市盈率约12倍已接近历史最低水平，市场过度恐慌；并指出2020年同类行政令（EO13920）实际商业影响有限（<a href='https://k.sina.com.cn/article_5953190046_162d6789e06703r0lg.html' target='_blank' rel='noopener'>来源：新浪·财闻（引伯恩斯坦）</a> [14]）。
-- **9月4日**：收盘88.43元、涨1.55%，总市值1833.34亿元，当日主力资金净流入2.36亿元；但近5个交易日主力资金仍净流出27.38亿元、期间股价累计下跌9.48%（<a href='https://www.toutiao.com/article/7681686938604028466/' target='_blank' rel='noopener'>来源：金融界</a> [10]）。
-- **9月5日**：对比2025年11月204.31元/股的高点，10个月时间股价跌幅约57%（<a href='https://www.163.com/dy/article/L62DAV6S0511A0EF.html' target='_blank' rel='noopener'>来源：雷递网</a> [11]）。
+- **9月7日**：股价收 88.75 元，涨 0.36%，成交额 35.48 亿元；当日融资买入 3.01 亿元，融资余额 82.84 亿元，占流通市值 4.50%，低于近一年 10% 分位水平（<a href="https://finance.sina.com.cn/stock/aiassist/lr/2026-09-08/doc-inirapyy9212343.shtml" target="_blank" rel="noopener">来源：新浪财经</a> [2]）。
+- **9月8日**：股价收 87.85 元，跌 1.01%；总市值 1,821.32 亿元，流通市值 1,394.64 亿元，平均市盈率 13.53（<a href="https://www.szse.cn/certificate/individual/index.html?code=300274" target="_blank" rel="noopener">来源：深圳证券交易所</a> [3]）。
+- **9月10日**：股价收 85.93 元，跌 1.23%，成交额 27.03 亿元，换手率 1.97%（<a href="https://xueqiu.com/S/SZ300274" target="_blank" rel="noopener">来源：雪球行情</a> [12]）。
+- **9月11日**：股价收 84.40 元，跌 1.78%；盘中最低 83.12 元刷新 52 周新低，总市值 1,749.79 亿元，市盈率（TTM）15.93（<a href="https://finance.sina.com.cn/realstock/company/sz300274/kline.shtml?daily" target="_blank" rel="noopener">来源：新浪财经</a> [9]）。
+- **全周表现**：9 月 7 日至 11 日股价由 88.75 元跌至 84.40 元，五个交易日累计下跌约 4.9%，全周市值自 1,821 亿元区间回落至 1,750 亿元附近（<a href="https://www.szse.cn/certificate/individual/index.html?code=300274" target="_blank" rel="noopener">来源：深圳证券交易所</a> [3]）（<a href="https://finance.sina.com.cn/realstock/company/sz300274/kline.shtml?daily" target="_blank" rel="noopener">来源：新浪财经</a> [9]）。
+- **9月12日**：复盘文章指出，调价公告当日主力资金净流出约 4.57 亿元（占成交额 11.48%），机构资金撤离、散户承接；同日 A 股全线重挫，上证指数跌 1.82%（<a href="https://xueqiu.com/4596573900/409056614" target="_blank" rel="noopener">来源：雪球·新质微观</a> [10]）。
+- **机构目标价分歧**：近六个月 16 位分析师给出的 12 个月平均目标价为 146.50 元，最高 230.72 元、最低 77 元；交银国际给出 220 元目标价（基于 22 倍 2027 年 PE），BNP Paribas 于 8 月 31 日下调至"落后大盘"、目标价 77 元（<a href="https://xueqiu.com/4596573900/409056614" target="_blank" rel="noopener">来源：雪球·新质微观</a> [10]）。
 
 # 二、股份回购
 
-- **9月2日**：公告回购进展，截至2026年8月31日累计回购304.76万股、占总股本0.1470%，最高成交价114.99元/股、最低97.81元/股，支付资金总额3.25亿元（含交易费用）；公司声明回购时间、委托时段与价格符合深交所回购指引要求（<a href='https://data.eastmoney.com/notices/detail/300274/AN202609021828929392.html' target='_blank' rel='noopener'>来源：东方财富·公司公告</a> [4]）。
-- **9月2日**：按8月2日董事会审议通过的方案，回购金额区间为不低于5亿元、不超过10亿元，价格上限188元/股，用于员工持股计划或股权激励，实施期限12个月——3.25亿元已达计划下限的65%（<a href='https://www.sohu.com/a/1071088320_465270' target='_blank' rel='noopener'>来源：中国基金报</a> [15]）。
-- **9月2日**：证券时报e公司同步报道该进展，口径与公告一致（<a href='https://egs.stcn.com/news/detail/2337365.html' target='_blank' rel='noopener'>来源：证券时报·e公司</a> [16]）。
+- **本周进展**：截至 9 月 13 日，公司本周未披露新的回购进展公告；最近一次为 9 月 2 日《关于回购公司股份的进展公告》，截至 2026 年 8 月 31 日已累计回购 304.76 万股，占总股本 0.1470%，最高成交价 114.99 元/股、最低 97.81 元/股，支付资金总额 3.25 亿元（<a href="https://www.stcn.com/article/detail/4169654.html" target="_blank" rel="noopener">来源：证券时报</a> [13]）。
+- **回购方案**：8 月 2 日董事会审议通过回购方案，拟以自有或自筹资金回购，价格不超过 188.00 元/股，总金额不低于 5 亿元且不超过 10 亿元，用于员工持股计划或股权激励，实施期限为董事会审议通过之日起 12 个月内（<a href="https://www.stcn.com/article/detail/4169654.html" target="_blank" rel="noopener">来源：证券时报</a> [13]）。
 
 # 三、海外业务与产能布局
 
-- **波兰工厂**：本周媒体报道重申波兰工厂正在建设中、预计2027年上半年建成，涵盖逆变器与储能产品，用于满足欧洲本地化需求并增强客户信心（<a href='https://new.qq.com/rain/a/20260902A048AU00' target='_blank' rel='noopener'>来源：每日经济新闻</a> [13]）。
-- **泰国工厂**：公司表示泰国工厂已运营，未来将根据全球化运营和贴近客户的原则继续布局海外产能（<a href='https://new.qq.com/rain/a/20260902A048AU00' target='_blank' rel='noopener'>来源：每日经济新闻</a> [13]）。
-- **埃及工厂（延续进展）**：8月17日在苏伊士运河经济区中埃泰达合作区奠基，总投资约5000万美元、占地约5万平方米，规划年产能10GWh，计划2027年4月投产，为中东非洲首座专业BESS工厂，并将直接配套挪威Scatec明亚省Energy Valley项目的4GWh储能（<a href='https://www.ess-news.com/2026/08/27/sungrow-breaks-ground-on-10-gwh-battery-storage-factory-in-egypt' target='_blank' rel='noopener'>来源：ESS News</a> [17]）。
-- **美国市场·行政令**：针对8月26日签署的第14420号行政令，公司回应称字面覆盖范围为69kV及以上输电系统设备、本地配电不在范围内，具体约束节点尚不明确；长期看在地缘政治波动下美国业务量会逐步萎缩，应对路径为加码技术创新、资源倾斜非美市场、深耕渠道业务（<a href='https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-09-04/doc-iniqsenq4152080.shtml' target='_blank' rel='noopener'>来源：新浪财经·互动易</a> [9]）。
-- **FCC 逆变器禁令**：公司在互动易进一步说明，FCC已将"电力逆变器"定义更新为含双向、与公用事业系统并联运行的设备，且不限于无线通信功能（以太网等有线方式亦纳入）；据FCC文件判断，不具备并网能力的离网逆变器不在禁令范围内（<a href='https://rs.p5w.net/question/00014FBFDD25FC0441DB855855494034B43E.shtml' target='_blank' rel='noopener'>来源：全景网·互动易</a> [18]）。
-- **美国市场·外媒视角**：pv magazine 指出，按中国披露口径阳光电源美国收入占比约15%—20%，是受本轮限制影响最大的中国厂商；公司明确暂不考虑赴美本地化建厂，理由是竞争环境不公平、本地生产缺乏成本优势且难以消除美国客户疑虑，同时在零部件、服务与小型系统方面寻求与海外企业合作（<a href='https://www.pv-magazine.com/2026/09/03/chinese-inverter-and-bess-makers-stress-compliance-as-us-restrictions-widen/' target='_blank' rel='noopener'>来源：pv magazine</a> [7]）。
+- **波兰工厂**：欧洲技术销售负责人 Andrea Polini 表示，位于瓦乌布日赫（Wałbrzych）的波兰工厂正在建设中，预计 2027 年一季度或二季度（春季）投产，初期生产分销类小型产品；该厂总投资 2.3 亿欧元，规划年产 20GW 逆变器及 12.5GWh 储能系统（<a href="https://www.pveurope.eu/inverter/sungrows-andrea-polini-bankability-counts-more-price" target="_blank" rel="noopener">来源：pv Europe</a> [14]）。
+- **波兰/埃及产能对比**：埃及苏伊士运河经济区工厂投资 5000 万美元、规划年产能 10GWh，计划 2027 年 4 月投产；波兰工厂规划年产 20GW 逆变器及 12.5GWh 储能系统，预计未来 12 个月内建成投产（<a href="https://xueqiu.com/4596573900/409056614" target="_blank" rel="noopener">来源：雪球·新质微观</a> [10]）。
+- **泰国工厂**：泰国工厂已投入运营，未来将根据全球化运营和贴近客户的原则继续优化海外产能布局；公司目前未计划赴美建厂，主要通过对冲与其他市场倾斜应对美国政策风险（<a href="https://new.qq.com/rain/a/20260902A05QC700" target="_blank" rel="noopener">来源：每日经济新闻</a> [15]）。
+- **海外收入结构**：2026 年上半年海外收入 226.90 亿元，同比下降 10.6%，但占比提升至 73.4%，较上年同期提升 15.1pct；中国大陆收入同比下降 54.7%（<a href="https://stock.hexun.com/2026-09-13/224997105.html" target="_blank" rel="noopener">来源：和讯·中信建投研报</a> [11]）。
+- **美国政策风险**：长江证券指出，美国 FCC 禁令不影响老产品销售，最新电力系统禁令影响还需细则出台后具体评估，公司通过加强创新、倾斜其他市场布局等控制风险（<a href="https://stock.hexun.com/2026-09-11/224993130.html" target="_blank" rel="noopener">来源：和讯·长江证券研报</a> [16]）。
+- **海外订单**：9 月 10 日公告中标中国能源建设集团湖南火电建设有限公司采购项目，对应南非 Sishen 72.5MW 光伏项目逆变器采购，中标金额 764.22 万元（<a href="https://guba.eastmoney.com/news,300274,1771557875.html" target="_blank" rel="noopener">来源：东方财富·同壁财经</a> [5]）。
+- **欧洲本地化软件**：公司已在 Intersolar 宣布最新版 iSolarCloud 仅运行在欧盟服务器上，软件开发、发布、签名与托管全部在欧洲完成，以应对 CRA 与 NIS2 合规要求（<a href="https://www.pveurope.eu/inverter/sungrows-andrea-polini-bankability-counts-more-price" target="_blank" rel="noopener">来源：pv Europe</a> [14]）。
 
 # 四、新产品与算力供电（AIDC）
 
-- **MGTL Series（预告）**：9月1日官网预告新一代三相混合逆变器 MGTL Series，覆盖10—25kW功率段，面向东南亚、非洲、拉美等电网波动与停电频发市场，主打全场景0ms并离网无缝切换，定于9月7日在越南岘港发布（<a href='https://official-overseas-aks-na.sungrowpower.com/en/whats-next-unveiling-sungrows-next-gen-mgtl-series' target='_blank' rel='noopener'>来源：阳光电源官网</a> [3]）。
-- **PowerTitan 3.0**：9月4日太原论坛场外展出465kW组串式逆变器与电力储能系统PowerTitan 3.0，吸引与会嘉宾交流问询（<a href='https://www.toutiao.com/article/7682719951458664979/' target='_blank' rel='noopener'>来源：山西经济日报</a> [8]）。
-- **SST / AIDC 电源**：公司自研EnerNeo固态变压器（SST）峰值效率达98.5%，800V高压直流产品已在AIDC算力机房完成小批量交付，并先后与阿里云、东阳光达成战略合作；公司预计AIDC相关业务将爆发式增长，但全球算力电源行业仍处商业化起步阶段（<a href='https://new.qq.com/rain/a/20260902A048AU00' target='_blank' rel='noopener'>来源：每日经济新闻</a> [13]）。
-- **构网与矩阵逆变器**：潘年安在太原论坛介绍，公司推出集光伏逆变、储能变流、能量路由与构网控制于一体的矩阵逆变器，并推进阻抗动态重塑、自适应同步锁相、双源融合控制等构网关键技术（<a href='https://www.toutiao.com/article/7681867430855017000' target='_blank' rel='noopener'>来源：太原日报</a> [19]）。
+- **MGTL Series 发布**：9 月 7 日在越南岘港发布下一代三相混合逆变器 MGTL Series，功率覆盖 10–25kW，采用 PID Zero® 技术，支持最高 250% 光伏超配、0ms 并离网切换、200% 三相不平衡输出、最大 440A 充放电电流、10 秒 2.0 倍交流过载；无风扇设计噪音低至 35 dB(A)，标配 AFCI 3.0R（覆盖 200 米线缆）、IP66 与 C5 防腐（<a href="https://official-overseas-aks-na.sungrowpower.com/en/meet-new-mgtl-series-sungrow-latest-innovation-for-homes-and-businesses" target="_blank" rel="noopener">来源：Sungrow 官网新闻</a> [1]）。
+- **SST 交付进展**：9 月 9 日公司在互动平台表示，已向客户交付几台 EnerNeo 系列固态变压器（SST），预计四季度投运，有望率先实现 SST 800V 直流供电方案在真实算力场景中的带载运行；与海外 AI 头部企业保持密切沟通，有独立合作时间表（<a href="https://www.cnstock.com/commonDetail/787746?commTag=true" target="_blank" rel="noopener">来源：上海证券报·中国证券网</a> [4]）。
+- **SST 产品与订单节奏**：AIDC 电源业务方面，35kV SST 预计明年上半年完成研发，四季度逐步接到订单、明年小批量交付、2028 年进入大规模交付阶段；AIDC 配储业务目前在手订单约 2GWh，跟进中项目有十几个 GWh（<a href="https://www.eet-china.com/mp/a523689.html" target="_blank" rel="noopener">来源：电子工程专辑·行家说储能</a> [17]）。
+- **800V 直流供电方案**：9 月 10 日外滩大会上，AIDC 电源事业部总裁张迪介绍，公司提出基于 800 伏直流的新型供电方案，通过中压直连固态变压器将多级转换整合为一级转换；发布的 EnerNeo 固态变压器额定功率 3MW、系统效率 98.5%（<a href="https://www.toutiao.com/article/7684129228220154404/" target="_blank" rel="noopener">来源：中国能源报</a> [6]）。
+- **AIDC 微电网技术指南**：9 月 10 日报道，公司在 2026 开放数据中心大会（9 月 2—4 日）联合中国信通院发布《面向算电协同的 AIDC 微电网技术指南》，首次提出"1+3+3"技术体系——1 套矩阵架构底座、并网/离网/增强型 3 种场景方案、稳定/经济/运维 3 大维度（<a href="https://finance.sina.cn/2026-09-10/detail-iniritau2865139.d.html" target="_blank" rel="noopener">来源：新浪财经</a> [18]）。
+- **AIDC 首次列入主要业务**：2026 年半年报中公司首次将 AIDC 电源列入主要业务，仅次于光伏逆变器与储能系统（<a href="https://www.eet-china.com/mp/a523689.html" target="_blank" rel="noopener">来源：电子工程专辑·行家说储能</a> [17]）。
+- **机构观点**：中信建投认为，后续需关注海外高价值市场交付、储能盈利结构改善及 AIDC 供电产品的商业化进展（<a href="https://stock.hexun.com/2026-09-13/224997105.html" target="_blank" rel="noopener">来源：和讯·中信建投研报</a> [11]）；长江证券认为，AIDC 产业趋势明确，公司积极布局 SST 等一系列产品，年内催化可期，明年有望贡献更多增量（<a href="https://stock.hexun.com/2026-09-11/224993130.html" target="_blank" rel="noopener">来源：和讯·长江证券研报</a> [16]）。
+- **产品调价**：9 月 11 日下发调价告知函，自 9 月 20 日起光伏逆变器、储能变流器（PCS）及储能系统提价 5%–15%；据披露，组串式、模块化、矩阵逆变器全系列上调 5%–10%，中压并网光伏逆变器涨幅 10%–15%，储能变流器全系列涨 5%–10%，变流一体机涨 10%–15%，PT 系列电力储能系统与 PS 系列工商业储能系统涨 5%–10%（<a href="https://www.sfccn.com/2026/9-11/3NMDE0MDdfMjIzODg3NA.html" target="_blank" rel="noopener">来源：南方财经</a> [19]）。
+- **涨价原因**：公司表示铜、铝、锡、银、金等有色金属价格持续走高，叠加核心零部件供应趋紧；今年上半年铜、铝价格同比分别上涨 31.4%、18.8%，9 月 10 日沪铜主力合约创下每吨 11.23 万元历史纪录（<a href="https://www.sfccn.com/2026/9-11/3NMDE0MDdfMjIzODg3NA.html" target="_blank" rel="noopener">来源：南方财经</a> [19]）。
+- **行业背景**：据中关村储能产业技术联盟统计，包括亿纬锂能、盛弘股份、绿能慧充、易事特等 10 余家储能产业链企业已发布调价函；汇川技术自 8 月 30 日起上调储能产品价格，最高涨幅 15%（<a href="https://www.cnstock.com/commonDetail/789170" target="_blank" rel="noopener">来源：上海证券报·中国证券网</a> [8]）。
 
 # 五、行业活动
 
-- **9月4日·太原**：2026年太原能源低碳发展论坛期间，由山西省能源局指导、阳光电源与通威集团主办的"新能源全场景应用与金属赋能探讨活动"在山西潇河国际会议中心举行，8位专家作主旨报告；公司已在山西累计投资超70亿元、落地1.65GW以上风光项目，并建设占地约114万平方米、总投资约6亿元的大同研发基地（<a href='https://www.toutiao.com/article/7682719951458664979/' target='_blank' rel='noopener'>来源：山西经济日报</a> [8]）。
-- **9月3日·杭州**：阳光电源与鼎久新能源集团主办"分布式光储创享会·杭州站"，聚焦浙江112号文落地后的工商业分布式光储市场重塑，公司渠道部华东区域总监王亚表示将持续加大浙江区域资源投入与服务下沉（<a href='https://www.huodongxing.com/event/1875750301300' target='_blank' rel='noopener'>来源：活动行·会议页</a> [6]）。
+- **中国国际矿业大会**：9 月 10 日至 12 日，2026（第二十八届）中国国际矿业大会在天津梅江会展中心举行，主题"合作共赢，绿色智能"，展览面积 6.5 万平方米，吸引 650 余家企业参展；阳光电源在 N4 新能源展区展示面向矿区的微电网解决方案（<a href="https://www.sohu.com/a/1074099253_122014422" target="_blank" rel="noopener">来源：搜狐·矿业大会现场报道</a> [7]）（<a href="https://www.xinhuanet.com/government/20260904/bf1ec45656274015894ce07717cf6b2b/c.html" target="_blank" rel="noopener">来源：新华网</a> [20]）。
+- **《矿区微电网白皮书》**：会上阳光电源联合长沙有色冶金设计院、德国莱茵 TÜV 发布《矿区微电网白皮书》，以"多源协控"为核心；白皮书指出电力成本占矿区运营的 20%–40%，偏远矿区柴油发电度电成本达 0.3–0.6 美元/kWh。方案覆盖小型（500kW–2.5MW）、中型（2.5MW–20MW）、大型（20MW–100MW）及微网群（100MW 以上）梯度配置，提供并网/离网与直流/交流耦合方案；经 8760 小时全时序仿真优化，宣称设备冗余降低 15%、调试提速 90%、度电成本较柴油发电下降 30%+（<a href="https://xueqiu.com/2512454662/409218013" target="_blank" rel="noopener">来源：雪球·《矿区微电网白皮书》解读</a> [21]）。
+- **外滩大会 AI 拓境论坛**：9 月 10 日由《中国能源报》、中国信息通信研究院、蚂蚁数科联合主办的 AI 拓境论坛在上海黄浦世博园区召开，200 余家单位出席；张迪作主旨报告，指出 AIDC 供电面临建设周期错配、GPU 功率密度提升、供电与制冷深度耦合三类挑战（<a href="https://www.toutiao.com/article/7684129228220154404/" target="_blank" rel="noopener">来源：中国能源报</a> [6]）。
+- **MGTL 发布活动**：MGTL Series 于越南岘港发布，面向东南亚、非洲、拉美等电网波动与停电频发市场，公司称其为户用储能系统创新的新标杆（<a href="https://official-overseas-aks-na.sungrowpower.com/en/meet-new-mgtl-series-sungrow-latest-innovation-for-homes-and-businesses" target="_blank" rel="noopener">来源：Sungrow 官网新闻</a> [1]）。
 
 # 六、公司治理
 
-- **9月3日**：披露《关于中证中小投资者服务中心有限责任公司公开征集表决权的公告》，投服中心仅就议案1.00《关于提名独立董事候选人的议案》征集表决权、表决意见为"同意"；征集时间为2026年9月4日至9月12日17:00，股权登记日为9月8日（<a href='https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF' target='_blank' rel='noopener'>来源：巨潮资讯网·公司公告</a> [5]）。
-- **9月3日**：财联社快讯同步该公告要点，投服中心持有公司140股、持股比例0.000007%，临时股东会将于9月15日召开（<a href='https://www.cls.cn/detail/xk/9aacf8c946ae2728385575610b17fd1d' target='_blank' rel='noopener'>来源：财联社</a> [20]）。
-- **9月6日**：候选人张冬花现任安徽新中天会计师事务所副所长，曾任众源新材、长信科技独董，现任瑞鹄模具独董，未持有公司股份；中证投服中心今年已先后向三钢闽光、沃森生物、山东路桥、越秀资本等多家上市公司提名独董人选（<a href='https://m.10jqka.com.cn/20260906/c679630579.shtml' target='_blank' rel='noopener'>来源：同花顺财经</a> [12]）。
-- **9月5日**：2026年第一次临时股东会将于9月15日14:00在合肥召开，审议《关于提名独立董事候选人的议案》与《关于为子公司提供担保的议案》，后者需经三分之二以上表决权通过（<a href='https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-08-29/5396293f-4bc1-4ae7-98fb-9a15ff5b04d6.PDF' target='_blank' rel='noopener'>来源：深交所·临时股东会通知</a> [21]）；公司同时披露中期分红方案，每10股派现6.4元（含税）合计13.17亿元（<a href='https://www.163.com/dy/article/L62DAV6S0511A0EF.html' target='_blank' rel='noopener'>来源：雷递网</a> [11]）。
+- **临时股东会**：公司将于 2026 年 9 月 15 日 14:00 在合肥市高新区习友路 1699 号公司会议室召开 2026 年第一次临时股东会，审议《关于提名独立董事候选人的议案》与《关于为子公司提供担保的议案》，股权登记日为 2026 年 9 月 8 日（<a href="https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF" target="_blank" rel="noopener">来源：巨潮资讯网·公司公告</a> [22]）。
+- **投服中心征集表决权**：中证中小投资者服务中心（证监会直接管理的法定公益投保机构）提名张冬花为独立董事候选人，并就议案 1.00 向全体股东公开征集表决权，表决意见为"同意"；征集人持有公司 140 股（占比 0.000007%），征集期为 2026 年 9 月 4 日至 9 月 12 日 17:00，本周内（9 月 12 日）截止（<a href="https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF" target="_blank" rel="noopener">来源：巨潮资讯网·公司公告</a> [22]）（<a href="https://news.qq.com/rain/a/20260906A0B0UV00" target="_blank" rel="noopener">来源：腾讯新闻</a> [23]）。
+- **治理意义**：有投资者评论认为，该公告是中国资本市场投资者保护机制走向成熟的缩影，彰显监管层推动上市公司高质量发展、保护中小投资者合法权益的决心（<a href="https://news.qq.com/rain/a/20260906A0B0UV00" target="_blank" rel="noopener">来源：腾讯新闻</a> [23]）。
+- **港股 IPO 进程**：公司已于 2026 年 4 月 24 日向香港联交所更新递交发行并上市申请，拟实现"A+H"两地上市，目前处港股上市关键窗口期（<a href="https://xinwen.bjd.com.cn/content/s6a95ad16e4b03fa51a83a1cf.html" target="_blank" rel="noopener">来源：北京商报</a> [24]）。
+- **半年报业绩（本周机构集中点评）**：2026 上半年营收 309.12 亿元（同比 -29.0%）、归母净利润 52.59 亿元（同比 -32.0%）、扣非 42.75 亿元（同比 -43.0%）；26Q2 营收 153.52 亿元、归母 29.67 亿元，环比 +29.5%（<a href="https://stock.hexun.com/2026-09-13/224997105.html" target="_blank" rel="noopener">来源：和讯·中信建投研报</a> [11]）；长江证券指出 26Q2 综合毛利率 38.6%，环增 5.4pct 并创下十余年以来单季度毛利率新高（<a href="https://stock.hexun.com/2026-09-11/224993130.html" target="_blank" rel="noopener">来源：和讯·长江证券研报</a> [16]）。
 
-<!-- 索引中的每一条来源都必须使用 HTML 锚点形式 target='_blank' rel='noopener'，点击在新标签页打开；切勿改为 Markdown [文本](url)，否则会在同标签页打开。顺序按首次引用 [1][2]… 排列。 -->
+<!-- 索引中的每一条来源都必须使用 HTML 锚点形式 target="_blank" rel="noopener"，点击在新标签页打开；切勿改为 Markdown [文本](url)，否则会在同标签页打开。顺序按首次引用 [1][2]… 排列。 -->
 ## 索引
 
-- [1] <a href='https://finance.eastmoney.com/a/202608313860166430.html' target='_blank' rel='noopener'>中国经营报：阳光电源市值跌破2000亿元，三个交易日跌幅近20%</a>
-- [2] <a href='https://www.toutiao.com/article/7680235363264676387/' target='_blank' rel='noopener'>北京日报：业绩失速的阳光电源"换挡"</a>
-- [3] <a href='https://official-overseas-aks-na.sungrowpower.com/en/whats-next-unveiling-sungrows-next-gen-mgtl-series' target='_blank' rel='noopener'>阳光电源官网：What's Next? Unveiling Sungrow's Next-Gen MGTL Series</a>
-- [4] <a href='https://data.eastmoney.com/notices/detail/300274/AN202609021828929392.html' target='_blank' rel='noopener'>东方财富·公司公告：阳光电源关于回购公司股份的进展公告</a>
-- [5] <a href='https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF' target='_blank' rel='noopener'>巨潮资讯网：关于中证中小投资者服务中心公开征集表决权的公告</a>
-- [6] <a href='https://www.huodongxing.com/event/1875750301300' target='_blank' rel='noopener'>活动行：阳光电源分布式光储创享会·杭州站</a>
-- [7] <a href='https://www.pv-magazine.com/2026/09/03/chinese-inverter-and-bess-makers-stress-compliance-as-us-restrictions-widen/' target='_blank' rel='noopener'>pv magazine：Chinese inverter and BESS makers stress compliance as US restrictions widen</a>
-- [8] <a href='https://www.toutiao.com/article/7682719951458664979/' target='_blank' rel='noopener'>山西经济日报：光储融合+金属赋能，山西能源革命有了新打法</a>
-- [9] <a href='https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-09-04/doc-iniqsenq4152080.shtml' target='_blank' rel='noopener'>新浪财经·互动易：针对美国提出的政令，公司有什么应对措施吗</a>
-- [10] <a href='https://www.toutiao.com/article/7681686938604028466/' target='_blank' rel='noopener'>金融界：阳光电源主力资金净流入2.36亿元，股价上涨1.55%报88.43元</a>
-- [11] <a href='https://www.163.com/dy/article/L62DAV6S0511A0EF.html' target='_blank' rel='noopener'>雷递网：阳光电源上半年营收309亿，净利53亿同比降32%</a>
-- [12] <a href='https://m.10jqka.com.cn/20260906/c679630579.shtml' target='_blank' rel='noopener'>同花顺财经：中证投服中心公开征集表决权，已向阳光电源提名独立董事候选人</a>
-- [13] <a href='https://new.qq.com/rain/a/20260902A048AU00' target='_blank' rel='noopener'>每日经济新闻：市值跌破2000亿元后，阳光电源海外困局</a>
-- [14] <a href='https://k.sina.com.cn/article_5953190046_162d6789e06703r0lg.html' target='_blank' rel='noopener'>新浪·财闻（引伯恩斯坦）：阳光电源回调背后，是情绪恐慌还是基本面拐点</a>
-- [15] <a href='https://www.sohu.com/a/1071088320_465270' target='_blank' rel='noopener'>中国基金报：美的集团、五粮液、阳光电源等披露回购进展</a>
-- [16] <a href='https://egs.stcn.com/news/detail/2337365.html' target='_blank' rel='noopener'>证券时报·e公司：阳光电源已耗资3.25亿元累计回购股份304.76万股</a>
-- [17] <a href='https://www.ess-news.com/2026/08/27/sungrow-breaks-ground-on-10-gwh-battery-storage-factory-in-egypt' target='_blank' rel='noopener'>ESS News：Sungrow breaks ground on 10 GWh battery storage factory in Egypt</a>
-- [18] <a href='https://rs.p5w.net/question/00014FBFDD25FC0441DB855855494034B43E.shtml' target='_blank' rel='noopener'>全景网·互动易：阳光电源关于FCC逆变器禁令与离网逆变器适用范围的回复</a>
-- [19] <a href='https://www.toutiao.com/article/7681867430855017000' target='_blank' rel='noopener'>太原日报：新能源全场景应用与金属赋能探讨活动举行</a>
-- [20] <a href='https://www.cls.cn/detail/xk/9aacf8c946ae2728385575610b17fd1d' target='_blank' rel='noopener'>财联社：阳光电源中证投服中心公开征集表决权支持提名独立董事</a>
-- [21] <a href='https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-08-29/5396293f-4bc1-4ae7-98fb-9a15ff5b04d6.PDF' target='_blank' rel='noopener'>深交所：阳光电源关于召开2026年第一次临时股东会的通知</a>
+- [1] <a href="https://official-overseas-aks-na.sungrowpower.com/en/meet-new-mgtl-series-sungrow-latest-innovation-for-homes-and-businesses" target="_blank" rel="noopener">Sungrow 官网新闻：Meet New MGTL Series — Sungrow's Latest Innovation for Homes and Businesses（2026-09-07，越南岘港）</a>
+- [2] <a href="https://finance.sina.com.cn/stock/aiassist/lr/2026-09-08/doc-inirapyy9212343.shtml" target="_blank" rel="noopener">新浪财经：阳光电源 9 月 7 日获融资买入 3.01 亿元，融资余额 82.84 亿元</a>
+- [3] <a href="https://www.szse.cn/certificate/individual/index.html?code=300274" target="_blank" rel="noopener">深圳证券交易所：阳光电源（300274）信息披露与 9 月 8 日行情指标</a>
+- [4] <a href="https://www.cnstock.com/commonDetail/787746?commTag=true" target="_blank" rel="noopener">上海证券报·中国证券网：阳光电源已向客户交付几台 SST，预计四季度投运（2026-09-09）</a>
+- [5] <a href="https://guba.eastmoney.com/news,300274,1771557875.html" target="_blank" rel="noopener">东方财富·同壁财经：阳光电源中标中国能建湖南火电采购项目 764.22 万元（2026-09-10）</a>
+- [6] <a href="https://www.toutiao.com/article/7684129228220154404/" target="_blank" rel="noopener">中国能源报：张迪——应对 AIDC 高密度供电需求，共建算电协同新生态（2026-09-11 发布，会议 9 月 10 日）</a>
+- [7] <a href="https://www.sohu.com/a/1074099253_122014422" target="_blank" rel="noopener">搜狐·中国矿业报：记者提前一天"剧透"矿业大会·阳光电源矿区微电网展台（2026-09-10）</a>
+- [8] <a href="https://www.cnstock.com/commonDetail/789170" target="_blank" rel="noopener">上海证券报·中国证券网：300274 产品涨价，9 月 20 日起光储产品上调 5%–15%（2026-09-11）</a>
+- [9] <a href="https://finance.sina.com.cn/realstock/company/sz300274/kline.shtml?daily" target="_blank" rel="noopener">新浪财经：阳光电源（300274.SZ）日 K 线与 9 月 11 日行情（84.40 元，总市值 1749.79 亿元）</a>
+- [10] <a href="https://xueqiu.com/4596573900/409056614" target="_blank" rel="noopener">雪球·新质微观：阳光电源（300274）复盘——涨价函落地，横向比较下的真实位置（2026-09-12）</a>
+- [11] <a href="https://stock.hexun.com/2026-09-13/224997105.html" target="_blank" rel="noopener">和讯·中信建投证券：阳光电源 2026 年中报点评——储能龙头盈利修复，AIDC 电源商业化落地加速（2026-09-13）</a>
+- [12] <a href="https://xueqiu.com/S/SZ300274" target="_blank" rel="noopener">雪球：阳光电源（SZ300274）9 月 10 日行情（85.93 元，总市值 1781.51 亿元）</a>
+- [13] <a href="https://www.stcn.com/article/detail/4169654.html" target="_blank" rel="noopener">证券时报：阳光电源已耗资 3.25 亿元累计回购股份 304.76 万股（2026-09-02）</a>
+- [14] <a href="https://www.pveurope.eu/inverter/sungrows-andrea-polini-bankability-counts-more-price" target="_blank" rel="noopener">pv Europe：Sungrow's Andrea Polini — "Bankability counts more than price"（波兰工厂 Q1/Q2 投产、欧洲软件本地化）</a>
+- [15] <a href="https://new.qq.com/rain/a/20260902A05QC700" target="_blank" rel="noopener">每日经济新闻：市值跌破 2000 亿元！阳光电源的海外困局——不赴美建厂，靠什么对冲美国风险？（泰国工厂已运营、波兰 2027 上半年建成）</a>
+- [16] <a href="https://stock.hexun.com/2026-09-11/224993130.html" target="_blank" rel="noopener">和讯·长江证券：阳光电源（300274）——Q2 业绩修复，毛利率环比改善显著（2026-09-11）</a>
+- [17] <a href="https://www.eet-china.com/mp/a523689.html" target="_blank" rel="noopener">电子工程专辑·行家说储能：阳光、比亚迪等 10 家储能公司披露 AIDC 最新进展（2026-09-09）</a>
+- [18] <a href="https://finance.sina.cn/2026-09-10/detail-iniritau2865139.d.html" target="_blank" rel="noopener">新浪财经：报告 | 面向算电协同的 AIDC 微电网技术指南（2026-09-10）</a>
+- [19] <a href="https://www.sfccn.com/2026/9-11/3NMDE0MDdfMjIzODg3NA.html" target="_blank" rel="noopener">南方财经网：阳光电源涨价，龙头出手能否终结储能"内卷"？（2026-09-11）</a>
+- [20] <a href="https://www.xinhuanet.com/government/20260904/bf1ec45656274015894ce07717cf6b2b/c.html" target="_blank" rel="noopener">新华网：2026 中国国际矿业大会将于 9 月 10 日至 12 日在天津举办</a>
+- [21] <a href="https://xueqiu.com/2512454662/409218013" target="_blank" rel="noopener">雪球：年省 5400 万美元！矿区微电网的账终于算明白了——阳光电源联合发布《矿区微电网白皮书》</a>
+- [22] <a href="https://static.cninfo.com.cn/finalpage/2026-09-03/1225546767.PDF" target="_blank" rel="noopener">巨潮资讯网：阳光电源关于中证中小投资者服务中心有限责任公司公开征集表决权的公告（2026-09-03）</a>
+- [23] <a href="https://news.qq.com/rain/a/20260906A0B0UV00" target="_blank" rel="noopener">腾讯新闻：中证投服中心公开征集表决权，已向阳光电源提名独立董事候选人</a>
+- [24] <a href="https://xinwen.bjd.com.cn/content/s6a95ad16e4b03fa51a83a1cf.html" target="_blank" rel="noopener">北京商报：业绩失速的阳光电源"换挡"（港股 IPO 关键期、半年报结构变化）</a>
 
-> 备注：以上信息整理自公开新闻、公司公告与研报，每条结论均附来源链接与索引编号，仅供参考，不构成任何投资建议。
+> 备注：以上信息整理自公开新闻与研报，每条结论均附来源链接与索引编号，仅供参考，不构成任何投资建议。
